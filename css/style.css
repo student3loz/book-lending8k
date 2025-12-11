@@ -19,3 +19,25 @@ h1, h2 {
 .section-main-logo {
   width: 160px;
 }
+.section-main-title {
+  padding-top: 40px;
+  padding-bottom: 20px;
+  color: #fff;
+  font-family: Lora;
+  font-size: 55px;
+  font-weight: 700;
+}
+.section-main-subtitle {
+  padding-bottom: 40px;
+  color: #fff;
+  font-size: 22px;
+}
+.section-main-button {
+  background-color: #8fbc8f;
+  border-radius: 25px;
+  color: #fff;
+  cursor: pionter;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 12px 30px;
+}
