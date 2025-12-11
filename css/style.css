@@ -16,3 +16,6 @@ h1, h2 {
   flex-direction: column;
   justify-content: center;
 }
+.section-main-logo {
+  width: 160px;
+}
