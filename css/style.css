@@ -1,6 +1,9 @@
 body {
-  background-color: silver;
+  color: #333;
+  background-color: #eaeaea;
   font-family: Roboto;
+  font-size: 16px;
+  padding: 0px;
 }
 h1, h2 {
   font-family: Lora;
