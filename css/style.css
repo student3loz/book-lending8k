@@ -15,6 +15,7 @@ h1, h2 {
   margin-bottom: 120px;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
 }
 .section-main-logo {
   width: 160px;
@@ -40,4 +41,7 @@ h1, h2 {
   font-weight: 700;
   text-transform: uppercase;
   margin: 12px 30px;
+}
+.second-section {
+  
 }
