@@ -1,3 +1,7 @@
 body {
   background-color: silver;
+  font-family: Roboto;
+}
+h1, h2 {
+  font-family: Lora;
 }
