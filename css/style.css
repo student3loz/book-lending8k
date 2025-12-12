@@ -100,6 +100,7 @@ h1, h2 {
 }
 .third-section-books {
   display: flex;
+  flex-direction: column; /* змінено напрям розташування блоків */
   justify-content: center;
   align-items: center;
   margin-top: 50px;
