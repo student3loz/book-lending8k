@@ -107,6 +107,7 @@ h1, h2 {
 }
 .third-section-book {
   display: flex;
+  flex-direction: column; /* змінено напрям розташування блоків */
   justify-content: center;
   align-items: center;
   margin: 10px 20px;
