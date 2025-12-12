@@ -134,6 +134,7 @@ h1, h2 {
 }
 .footer {
   display: flex;
+  flex-direction: column; /* змінено напрям розташування блоків */
   justify-content: center;
   align-items: center;
   padding-top: 100px;
@@ -154,7 +155,8 @@ h1, h2 {
   color: #fff;
 }
 .footer-form {
-  display:flex;
+  display: flex;
+  flex-direction: column; /* змінено напрям розташування блоків */
   justify-content: center;
   align-items: center;
 }
