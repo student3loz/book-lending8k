@@ -138,6 +138,7 @@ h1, h2 {
   flex-direction: column; /* змінено напрям розташування блоків */
   justify-content: center;
   align-items: center;
+  background-color: #2f4f4f; /* встановлено колір тла */
   padding-top: 100px;
   padding-bottom: 100px;
 }
