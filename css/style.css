@@ -114,6 +114,8 @@ h1, h2 {
   margin: 10px 20px;
 }
 .book-title {
+  display: flex;
+  flex-wrap: wrap; /* спробуємо налаштувати перенесення тексту */
   margin-top: 10px;
   margin-bottom: 5px;
   color: #556b2f;
